@@ -1,5 +1,5 @@
 # Define the Docker image and container name
-IMAGE_NAME=digesto-hybrid-search:beta-0.3
+IMAGE_NAME=digesto-hybrid-search:beta-0.13
 CONTAINER_NAME=digesto-hybrid-search-container
 
 clean: 
